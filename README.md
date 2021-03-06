@@ -19,7 +19,7 @@ This project is a single page flask app that reads local images or online images
 
 ## Getting Started
 
-1. Clone the project from git(git clone https://github.com/Leke-Ariyo/image-similarity.git)
+1. Clone the project from git(git clone https://github.com/WilliamsEfe/image-similarity.git)
 2. Go to 'image-similarity' directory.
 3. Run `pip install -r requirements.txt` to download dependencies.
 4. Run `python script.py` to start up
